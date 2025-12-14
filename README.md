@@ -11,6 +11,9 @@
       ✅ Easy to expand year‑by‑year without re‑structuring
 
 
+#Download "MASTER_FOLDER_STRUCTURE-v0.1.zip" is a COMPLETE, PRACTICAL & INSPECTION-READY FOLDER STRUCTURE for a Private Limited Company (India), You can use the same structure for BOTH Physical Files (Cupboard) and Digital Storage.
+This structure is aligned with Companies Act, 2013, Secretarial Standards (SS-1 & SS-2), Income-tax, GST, Labour Laws, and Bank Due-Diligence requirements
+
 #Here is List of DOCUMENTS TO BE MAINTAINED AT REGISTERED OFFICE (Private Limited Company – in India).
 
 
