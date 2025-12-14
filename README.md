@@ -1,19 +1,18 @@
 # pvt-ltd-company-documents-struture
  
-✅ WHY THIS STRUCTURE IS BEST PRACTICE
+✅ WHY THIS STRUCTURE IS BEST PRACTICE for DOCUMENTS TO BE MAINTAINED AT REGISTERED OFFICE (Private Limited Company – in India)
 
-Fully compliant with Companies Act, 2013
+      ✅ Fully compliant with Companies Act, 2013
 
-Follows SS‑1 & SS‑2
+      ✅ Follows SS‑1 & SS‑2
 
-Accepted by ROC, Bank, CS, CA, Auditors
+      ✅ Accepted by ROC, Bank, CS, CA, Auditors
 
-Easy to expand year‑by‑year without re‑structuring
+      ✅ Easy to expand year‑by‑year without re‑structuring
 
 
-#DOCUMENTS TO BE MAINTAINED AT REGISTERED OFFICE
+#Here is List of DOCUMENTS TO BE MAINTAINED AT REGISTERED OFFICE (Private Limited Company – in India).
 
-(Private Limited Company – in India)
 
 1️⃣ INCORPORATION & CONSTITUTION DOCUMENTS
 
